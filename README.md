@@ -9,3 +9,9 @@
 # Welcome to ENTR-451
 
 This is the in-class example of a GitHub repository (Kellogg).
+
+Three steps:
+      1) Stage ("+" icon on the changes menu)
+      2) Message + commit
+      3) Upload!
+Always remember to sync!
