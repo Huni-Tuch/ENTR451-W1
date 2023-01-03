@@ -1,0 +1,6 @@
+This is an example of a file created in class
+In fact, the command was "touch #filename"
+Let's briefly recall the several commands we made
+ls -> list of what is in this folder
+mkdir -> make directory (folder)
+cd -> create directory
