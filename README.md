@@ -8,4 +8,4 @@
 
 # Welcome to ENTR-451
 
-This is the in-class example of a GitHub repository made in class (Kellogg).
+This is the in-class example of a GitHub repository (Kellogg).
